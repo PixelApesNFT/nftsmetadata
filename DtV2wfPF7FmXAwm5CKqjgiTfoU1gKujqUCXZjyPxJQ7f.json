@@ -1,0 +1,62 @@
+{
+  "name": "PixelApes #1865",
+  "symbol": "PA",
+  "description": "PixelApes are a big family of 3,534 Apes living in the Jungle of Solana! They are cool, collectible, and uniquely generated apes. #ApesGonnaApe",
+  "seller_fee_basis_points": 1000,
+  "image": "https://www.arweave.net/TzKJGXCOLKeBGnvZN0LXahM-5_nhC1S3Bj36XudAUv8?ext=png",
+  "external_url": "https://www.pixelapes.io",
+  "edition": 1865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suit Vest Black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Googly Eyes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Leaf Hat"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Silver Chain"
+    }
+  ],
+  "collection": {
+    "name": "PixelApes",
+    "family": "PixelApes"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/TzKJGXCOLKeBGnvZN0LXahM-5_nhC1S3Bj36XudAUv8?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9xZxWJ9iCacHdkW1MEntVPAS3AjGwPtbDXQwyTM9PToX",
+        "share": 80
+      },
+      {
+        "address": "AhBxqhTB2ACtGisNWZVZATurR3XvzkU5RCePKbV8yxtQ",
+        "share": 20
+      }
+    ]
+  }
+}
